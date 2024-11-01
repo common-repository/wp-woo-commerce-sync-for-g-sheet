@@ -1,0 +1,13 @@
+{"installed":
+
+	{
+
+		"client_id":"942442665845-shnvcadjevl2ednajmvtb7i0j15ub5bs.apps.googleusercontent.com",
+		"project_id":"automated-shape-265207",
+		"auth_uri":"https://accounts.google.com/o/oauth2/auth",
+		"token_uri":"https://oauth2.googleapis.com/token",
+		"auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+		"client_secret":"snM7l75n7UALK9Z2PqpEv-97",
+		"redirect_uris":["urn:ietf:wg:oauth:2.0:oob"]
+	}
+}
